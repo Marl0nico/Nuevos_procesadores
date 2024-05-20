@@ -23,4 +23,7 @@ public class Cuadriláteros extends Figuras_Geométricas{
     public double calcularÁrea(){
         return largo*ancho;
     }
+    public double calcularPerímetro(){
+        return (2*largo)+(2*ancho);
+    }
 }

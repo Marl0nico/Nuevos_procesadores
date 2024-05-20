@@ -13,4 +13,7 @@ public class Círculos extends Figuras_Geométricas{
     public double calcularÁrea(){
         return Math.PI*radio*radio;
     }
+    public double calcularPerímetro(){
+        return Math.PI*2*radio;
+    }
 }
