@@ -37,8 +37,9 @@ public class Main {
         System.out.println("Perímetro:"+triángulo1.calcularPerímetro());
         //pentágono
         System.out.println("Pentágono 1");
-
+        
         //deber: leer Deitel sobre herencia y consultar y activar su cuenta estudiantil de github
         //deber: terminar de hacer el ejercicio y probarlo en el main
+        //primer commit
     }
 }
