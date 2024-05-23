@@ -41,5 +41,6 @@ public class Main {
         //deber: leer Deitel sobre herencia y consultar y activar su cuenta estudiantil de github
         //deber: terminar de hacer el ejercicio y probarlo en el main
         //primer commit
+        //segundo commit y push en github
     }
 }
